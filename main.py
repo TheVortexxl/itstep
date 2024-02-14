@@ -1,23 +1,3 @@
-print("Hello")
-print("Hello")
-print("Hello")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -28,8 +8,9 @@ print("Hello")
 #         print("I am alive!")
 #
 # first_student = Student()
-#
-#
+# second = Student()
+# print(first_student.height)
+
 # class Student:
 #     print("Hi")
 #     def __init__(self):
@@ -37,8 +18,9 @@ print("Hello")
 #         print(self)
 #
 # first_student = Student()
-#
-#
+
+
+
 # class Student:
 #     print("Hi")
 #     def __init__(self):
@@ -48,14 +30,6 @@ print("Hello")
 # first_student = Student()
 # Student.__init__(first_student)
 
-
-
-# class Student:
-#     def __init__(self):
-#         self.height = 160
-#
-# nick = Student()
-# print(nick.height)
 
 
 
@@ -74,7 +48,7 @@ print("Hello")
 
 
 
-
+#-------------------------------------------------------
 # class Student:
 #     amount_of_students = 0
 #     def __init__(self, height=160):
